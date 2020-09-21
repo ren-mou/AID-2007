@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 jame
 rd ...........
+=======
+jame work hard
+发,aff
+
+l
+发发
+>>>>>>> 962fd210e1075ce3fa032758cfb8ec1923fef81d
